@@ -46,3 +46,5 @@ coverage report -m
 ## Link Google Sheets
 
 <https://docs.google.com/spreadsheets/d/1DlzQ4lWkYNBDnt7nK3rzzbWeetIKqUUaKmt7o1j3xFA/edit?gid=0#gid=0>
+
+![Deskripsi Gambar](https://raw.githubusercontent.com/XzyanQi/Simple-ETL-Pipeline/main/Nilai.jpg)
